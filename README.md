@@ -2,9 +2,9 @@
 
 The purpose of this repo is to practice R and gain deeper insights about R programming as well as stock market movements.
 
-To demonstrate the capabalities of R, this program analyzes stock market data supplied by csv.
+To demonstrate the capabilities of R, this program analyzes stock market data supplied by csv.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://webmailbyui-my.sharepoint.com/:v:/g/personal/u822155477_byui_edu/EawuxEvsw85EnckYkoLBbjkBnN8fO4I82dSt-qQAWlb2tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zT4tE0)
 
 # Development Environment
 
@@ -12,8 +12,6 @@ To demonstrate the capabalities of R, this program analyzes stock market data su
 - Install R Studio
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [GeeksForGeeks](https://www.geeksforgeeks.org/r-tutorial/)
 - [W3Schools](https://www.w3schools.com/r/default.asp)
@@ -23,8 +21,6 @@ To demonstrate the capabalities of R, this program analyzes stock market data su
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Increase the size of my dataset by calling an API instead of using a csv
+- Be able to select just a portion of my dataset for analysis
+- Add more calculations for to enhance pattern recognition
