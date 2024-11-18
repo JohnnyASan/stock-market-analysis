@@ -19,6 +19,7 @@ To demonstrate the capabalities of R, this program analyzes stock market data su
 - [W3Schools](https://www.w3schools.com/r/default.asp)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/is-it-better-to-learn-vba-r-programming-or-sql/?ref=oin_asr6)
 - [W3Schools](https://www.w3schools.com/r/exercise.asp)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/r-data-frames/)
 
 # Future Work
 

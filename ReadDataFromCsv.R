@@ -1,5 +1,4 @@
-# Generate DataFrame from CSV
-library(stringr)
+# Read data from CSV
 
 fileLocation <- paste(getwd(), '/data/DRUG_08-12-2024_11-12-2024.csv', sep="")
 
