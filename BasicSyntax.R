@@ -66,3 +66,11 @@ txt <<- "GlobalVar"
 my_function()
 
 print(txt)
+
+my_list <- list("Apple", "Banana", "Cherry", "Date", "Elderberry")
+
+# For loop to print each element
+for (fruit in my_list) {
+  print(fruit)
+}
+
